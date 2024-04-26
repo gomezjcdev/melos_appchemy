@@ -1,0 +1,8 @@
+# melos_managed_dependency_overrides: mf_creci,mf_home,mf_sap
+dependency_overrides:
+  mf_creci:
+    path: ../../packages/mf_creci
+  mf_home:
+    path: ../../packages/mf_home
+  mf_sap:
+    path: ../../packages/mf_sap

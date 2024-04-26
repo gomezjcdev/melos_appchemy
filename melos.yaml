@@ -1,0 +1,14 @@
+name: melos_appchemy
+
+packages:
+  - apps/**
+  - packages/**
+
+command:
+  version:
+    branch: main
+
+scripts:
+  format:
+    run: melos exec dart format . --fix
+    description: Run `dart format` on all packages
