@@ -11,9 +11,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  mf_creci: 0.0.1
-  mf_sap: 0.0.1
-  mf_home: 0.0.1
+  mf_creci: 1.0.0
+  mf_sap: 1.0.0
+  mf_home: 1.0.0
 
   cupertino_icons: ^1.0.2
   provider: ^6.1.2
